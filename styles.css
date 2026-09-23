@@ -1,0 +1,8 @@
+/* Estilo de la barra de desplazamiento y parpadeo de cursor hacker */
+textarea, input, select {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: #030712;
+}
